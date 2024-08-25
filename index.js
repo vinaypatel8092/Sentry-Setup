@@ -37,3 +37,6 @@ sentry.startSpan({
       sentry.captureException(e);
     }
   });
+
+
+// https://chatgpt.com/share/2f467d18-e593-4915-923c-6baebfef4ba3
